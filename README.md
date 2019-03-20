@@ -11,3 +11,6 @@
 * Skype 
 * Crossfit
 * Os Irmãos Neto
+* Corrente do Whatsapp
+* Levar o lixo pra fora
+* Ligações do DDD 11
