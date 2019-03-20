@@ -1,16 +1,18 @@
 # Coisas que tem que acabar, junto com o jovem e o wordpress
 
-* Jovem
-* Wordpress
-* Gamer
-* Arduino
-* Peugeot 
-* Correios
-* Cake PHP
-* Nintendo 
-* Skype 
-* Crossfit
-* Os Irmãos Neto
-* Corrente do Whatsapp
-* Levar o lixo pra fora
-* Ligações do DDD 11
+* [Jovem](https://desciclopedia.org/wiki/Adolescência)
+* [Wordpress](https://wordpress.com)
+* [Gamer](https://desciclopedia.org/wiki/Gamer)
+* [Arduino](https://www.arduino.cc)
+* [Peugeot](https://dicascarrosusados.com/5-razoes-para-nao-comprar-peugeot-206/) 
+* [Correios](https://dicascarrosusados.com/5-razoes-para-nao-comprar-peugeot-206/)
+* [Cake PHP](https://cakephp.org)
+* [Nintendo]() 
+* [Skype](https://www.skype.com/pt-br/) 
+* [Crossfit]() 
+* [Os Irmãos Neto](https://www.youtube.com/watch?v=-mIEELoYnIA) 
+* [Corrente do Whatsapp]() 
+* [Levar o lixo pra fora]() 
+* [Ligações do DDD 11]() 
+* [Velozes e Furiosos]()
+* [Supernatural](https://desciclopedia.org/wiki/Supernatural) 
