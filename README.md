@@ -7,3 +7,7 @@
 * Peugeot 
 * Correios
 * Cake PHP
+* Nintendo 
+* Skype 
+* Crossfit
+* Os Irmãos Neto
