@@ -5,3 +5,7 @@
 * Gamer
 * Arduino
 * Peugeot 
+* Nintendo 
+* Skype 
+* Crossfit
+* Os Irmãos Neto
