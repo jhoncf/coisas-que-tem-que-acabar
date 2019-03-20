@@ -15,6 +15,7 @@
 * [Levar o lixo pra fora]() 
 * [Ligações do DDD 11]() 
 * [Velozes e Furiosos]()
+* [Malhação]()
 * [Supernatural](https://desciclopedia.org/wiki/Supernatural) 
 * [Chifre](https://desciclopedia.org/wiki/Corno)
 * [Dias úteis](https://desciclopedia.org/wiki/Dias)
