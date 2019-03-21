@@ -37,4 +37,5 @@
 * [E-mail do Bol](https://desciclopedia.org/wiki/Bol)
 * [Cross Domain - CORS](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
 * [Java](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))
+* [Foro Privilegiado](https://www.politize.com.br/foro-privilegiado-o-que-e/)
 * [Turma de mônica jovem]()
