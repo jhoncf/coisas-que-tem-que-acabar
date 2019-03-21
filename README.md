@@ -3,6 +3,7 @@
 * [Jovem](https://desciclopedia.org/wiki/Adolescência)
 * [Wordpress](https://wordpress.com)
 * [Gamer](https://desciclopedia.org/wiki/Gamer)
+* [Terraplanistas](https://desciclopedia.org/wiki/Terraplanista)
 * [Arduino](https://www.arduino.cc)
 * [Peugeot](https://dicascarrosusados.com/5-razoes-para-nao-comprar-peugeot-206/) 
 * [Correios](https://dicascarrosusados.com/5-razoes-para-nao-comprar-peugeot-206/)
