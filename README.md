@@ -40,3 +40,4 @@
 * [Foro Privilegiado](https://www.politize.com.br/foro-privilegiado-o-que-e/)
 * [Turma de mônica jovem]()
 * [Sindicato]()
+* [Cheque](https://desciclopedia.org/wiki/Cheque)
