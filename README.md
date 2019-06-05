@@ -42,3 +42,5 @@
 * [Sindicato]()
 * [Cheque](https://desciclopedia.org/wiki/Cheque)
 * [Varnish](https://varnish-cache.org)
+* [Cadeira Gamer]
+* [Calça de Moletom]
